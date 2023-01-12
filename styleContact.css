@@ -1,0 +1,42 @@
+body{
+    background-color: darkslategrey;
+}
+header{
+    background-color: lightseagreen;
+    width: 100%;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+}
+img{
+    padding-left: 300px;
+}
+nav{
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+    height: 20px;
+    width: 800px;
+    padding: 15px; 
+}
+nav a{
+    position: relative;
+    padding: 20px 70px 20px 70px;
+}
+main{
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: white;
+    color: black;
+}
+article{
+    padding-top: 80px;
+    padding-left: 100px;
+    padding-right: 400px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+}
+main img{
+    padding-left: 220px;
+}

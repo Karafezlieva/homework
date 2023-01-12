@@ -1,0 +1,40 @@
+body{
+    background-color: darkslategrey;
+}
+header{
+    background-color: lightseagreen;
+    width: 100%;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+}
+header img{
+    padding-left: 300px;
+}
+nav{
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+    height: 20px;
+    width: 800px;
+    padding: 15px; 
+}
+nav a{
+    position: relative;
+    padding: 20px 70px 20px 70px;
+}
+main{
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+    color: white;
+}
+div.gallery{
+    margin: 20px;
+    float: left;
+    width: 200px;
+}
+div.gallery img{
+    width: 100%;
+    height: auto;
+}
